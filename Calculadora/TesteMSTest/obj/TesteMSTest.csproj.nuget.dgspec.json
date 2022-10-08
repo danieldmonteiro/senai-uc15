@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/TesteMSTest/TesteMSTest.csproj": {}
+  },
+  "projects": {
+    "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/Calculadora/Calculadora.csproj": {
+      "restore": {
+        "projectUniqueName": "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/Calculadora/Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/Calculadora/Calculadora.csproj",
+        "frameworks": {
+          "xamarinmac20": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinmac20": {}
+      }
+    },
+    "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/TesteMSTest/TesteMSTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/TesteMSTest/TesteMSTest.csproj",
+        "projectName": "TesteMSTest",
+        "projectPath": "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/TesteMSTest/TesteMSTest.csproj",
+        "packagesPath": "/Users/danielmonteiro/.nuget/packages/",
+        "outputPath": "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/TesteMSTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/danielmonteiro/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/Calculadora/Calculadora.csproj": {
+                "projectPath": "/Users/danielmonteiro/Documents/senai-uc15/Calculadora/Calculadora/Calculadora.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.423/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
