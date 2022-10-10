@@ -1,0 +1,12 @@
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/bin/Debug/net6.0/CalcImc.deps.json
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/bin/Debug/net6.0/CalcImc.dll
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/bin/Debug/net6.0/CalcImc.pdb
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/CalcImc.csproj.AssemblyReference.cache
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/CalcImc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/CalcImc.AssemblyInfoInputs.cache
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/CalcImc.AssemblyInfo.cs
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/CalcImc.csproj.CoreCompileInputs.cache
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/CalcImc.dll
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/refint/CalcImc.dll
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/CalcImc.pdb
+/Users/danielmonteiro/Documents/senai-uc15/CalcImc/CalcImc/obj/Debug/net6.0/ref/CalcImc.dll
