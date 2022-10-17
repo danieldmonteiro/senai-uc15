@@ -1,4 +1,7 @@
 ﻿<Properties StartupConfiguration="{BB7B3C82-CB52-46E4-AD23-D95141367097}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
@@ -7,10 +10,8 @@
             <Node name="Calculadora" expanded="True">
               <Node name="Properties" expanded="True" />
             </Node>
-            <Node name="TesteMSTest" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
-            <Node name="TesteXUnit" expanded="True" selected="True" />
+            <Node name="TesteMSTest" expanded="True" />
+            <Node name="TesteXUnit" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -24,12 +25,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TesteXUnit FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.TesteMSTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TesteMSTest PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TesteXUnit FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

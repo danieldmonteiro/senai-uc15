@@ -1,23 +1,18 @@
 ﻿<Properties StartupConfiguration="{468DCCF6-F1EE-496F-909C-7E9A36FC144F}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TesteXUnit PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalcImc/Calculadora.cs">
-    <Files>
-      <File FileName="CalcImc/Class1.cs" Line="13" Column="10" />
-    </Files>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CalcImc" expanded="True">
-            <Node name="CalcImc" expanded="True">
-              <Node name="Calculadora.cs" selected="True" />
+          <Node name="CalcImc" expanded="True" selected="True">
+            <Node name="CalcImc" expanded="True" />
+            <Node name="TesteXUnit" expanded="True">
+              <Node name="Dependencies" expanded="True" />
             </Node>
-            <Node name="TesteXUnit" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -31,4 +26,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TesteXUnit PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
